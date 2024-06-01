@@ -294,7 +294,10 @@ Footer
 
 .twitter {
   width: 30%;
-  height: 371px;
+}
+
+.twitter-container {
+  height: 340px;
   overflow: scroll;
 }
 
@@ -345,4 +348,5 @@ SP
   .twitter {
     width: 100%;
   }
+  
 }
